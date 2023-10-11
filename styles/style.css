@@ -90,7 +90,7 @@ ol {
 /*стили для основного контейнера*/
 
 .content {
-  place-content: center;
+  place-items: center;
   display: flex;
   gap: 30px;
   margin: 133px auto auto auto;
